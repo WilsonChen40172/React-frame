@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>ssd</h1>
-      <a href="/Whale">去鯨魚頁</a>
+      <a href="/Whale">去鯨魚頁22</a>
     </div>
   );
 }
